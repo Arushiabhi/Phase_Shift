@@ -3,7 +3,7 @@ How to Run Program.
 
 This is the readme file for execution of Scattering Phase Shift Programs
 
-Please follow these steps :
+Please follow these steps:
 
 Step-1. Copy or write this code directly into Python Terminal/Spyder/Jupyter Notebook.
 
