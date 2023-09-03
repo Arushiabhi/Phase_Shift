@@ -1,7 +1,10 @@
 # Python code to calculate Phase shift using Refrence Potential Approach
 How to Run Program.
+
 This is the readme file for execution of Scattering Phase Shift Programs
+
 Please follow these steps :
+
 Step-1. Copy or write this code directly into Python Terminal/Spyder/Jupyter Notebook.
 Step-2. Save it with extension .py
 Step-3. Now execute this code window using function key 'F5' this automatically save and execute the program.
